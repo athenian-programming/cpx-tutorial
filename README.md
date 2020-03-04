@@ -1,11 +1,16 @@
-# Adafruit Circuit Playground Express Tutorial
+# Adafruit Circuit Playground Express and CLUE Tutorial
 
 ## Boards
 * [Circuit Playground Express](https://www.adafruit.com/product/3333)
+* [CLUE](https://www.adafruit.com/product/4500)
 
 ## Setup
 * Install [CircuitPython on the CPX](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-code)
 * Install [CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases)
+
+## Pinouts
+* [Circuit Playground Express](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts)
+* [CLUE](https://learn.adafruit.com/adafruit-clue/pinouts)
 
 ## Examples
 
