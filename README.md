@@ -13,7 +13,8 @@
 * [CLUE](https://learn.adafruit.com/adafruit-clue/pinouts)
 
 ## Examples
-* [CircuitPython Made Easy on Circuit Playground Express and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/circuit-playground-express-library)
+* [CircuitPython CPX Examples](https://github.com/adafruit/Adafruit_CircuitPython_CircuitPlayground/tree/master/examples)
+* [CircuitPython Made Easy on CPX and Bluefruit](https://learn.adafruit.com/circuitpython-made-easy-on-circuit-playground-express/circuit-playground-express-library)
 * [Circuit Plalyground Express Examples](https://github.com/kattni/Welcome_to_CircuitPython_CPX)
 
 ### VL53L0X Time of Flight Lidar
